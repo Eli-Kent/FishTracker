@@ -1,0 +1,6 @@
+## Interface : 11100
+## Title: FishTracker
+## Author: Trolldruid
+## Version: 0.2
+## SavedVariables: FishTracker_Data
+FishTracker.lua
